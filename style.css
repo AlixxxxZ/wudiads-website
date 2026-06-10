@@ -418,20 +418,34 @@ header{
 
 /* ---------- Page ---------- */
 
+.page-intro{
+
+    max-width:800px;
+
+    color:#666;
+
+    margin-bottom:60px;
+
+    font-size:18px;
+
+}
+
 .page{
 
-    max-width:900px;
+    max-width:1200px;
 
     margin:auto;
 
-    padding:100px 20px;
+    padding:60px 20px 80px;
 
 }
 
 
 .page h1{
 
-    margin-bottom:40px;
+    font-size:48px;
+
+    margin-bottom:20px;
 
 }
 
